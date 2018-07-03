@@ -1,4 +1,4 @@
-##Terminal
+## Terminal
 
 - [Hyper terminal](https://hyper.is/)
 - Font size: 14
@@ -7,8 +7,9 @@
 - [oh-my-zsh shell](https://github.com/robbyrussell/oh-my-zsh)
 - [spaceship-prompt](https://denysdovhan.com/spaceship-prompt/)
 
-##Visual Studio
-###Plugins
+## Visual Studio
+
+### Plugins
 
 - [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
