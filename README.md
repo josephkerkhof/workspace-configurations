@@ -7,9 +7,11 @@
 - [oh-my-zsh shell](https://github.com/robbyrussell/oh-my-zsh)
 - [spaceship-prompt](https://denysdovhan.com/spaceship-prompt/)
 
-## Visual Studio
+## Text Editor
 
-### Plugins
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+### VS Code Plugins
 
 - [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
@@ -23,3 +25,7 @@
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+
+### VS Code Theme
+
+- [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
